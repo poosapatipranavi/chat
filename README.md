@@ -23,14 +23,6 @@ It uses **Weaviate** (vector database) for semantic search, **Hugging Face embed
 - [Gemma (Groq)](https://groq.com/) - LLM for response generation  
 - [LangChain](https://www.langchain.com/) - Prompt orchestration  
 
----
-
-##  Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/your-username/chatbot.git
-cd chatbot
 
 
 
